@@ -1,7 +1,11 @@
-# Project Video
+## Project Video
 
 ## Overview
 
 Below is an embedded video demonstrating the project:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/<VIDEO_ID>" frameborder="0" allowfullscreen></iframe>
+<video width="640" height="360" controls>
+    <source src="_static/video2143880773.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
