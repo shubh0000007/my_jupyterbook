@@ -8,5 +8,5 @@ Below is an embedded video demonstrating the project:
     <source src="_static/video2143880773.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
-<a href="../_static/video2143880773.mp4" download>Download the video</a>
+
 
